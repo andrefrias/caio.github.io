@@ -1,0 +1,39 @@
+body,
+h1,
+h2,
+h3,
+ul,
+li,
+dd,
+dt,
+dl {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "IMB Plex Mono", monospace;
+  background-color: #141414;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.subtitulo {
+  font-size: 8rem;
+  line-height: 1;
+  text-transform: uppercase;
+  word-break: break-all;
+  max-width: 4ch;
+}
